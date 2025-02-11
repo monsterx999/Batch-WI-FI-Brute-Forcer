@@ -4,7 +4,7 @@
  - wordlist         : Provide a wordlist file     
  - scan             : Performs a WI-FI scan       
  - interface        : Open Interface Management   
- - attack           : Attacks selected WI-FI      
+ - attack           : mahi    
  - counter          : Sets the attack counter     
  - exit             : Close the program
 
